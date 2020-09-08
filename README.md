@@ -17,6 +17,7 @@
 
 
 Felix heeft deze readme aangevuld
+![fury wallpaper](my-movie/img/fury_2014_wallpaper)
 
 </body>
 </html>
