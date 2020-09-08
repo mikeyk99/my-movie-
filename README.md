@@ -15,6 +15,9 @@
 
 <img src="img/fury.jpg" alt="Poster">
 
+## Trailer
+(https://www.youtube.com/watch?v=-OGvZoIrXpg)
+
 
 Felix heeft deze readme aangevuld
 <img src="img/fury__2014__wallpaper.jpg" alt="fury wallpaper">
